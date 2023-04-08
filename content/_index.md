@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Games
+          description: 80%
+          icon: playstation
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Cook
+          description: 60%
+          icon: egg
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Math
+          description: 90%
+          icon: chart-line
           icon_pack: fas
   - block: experience
     content:
@@ -40,27 +40,27 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Самый обаятельный сотрудник Магнит Косметик
+          company: Магнит
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Москва
+          date_start: '2023-02-03'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Требуемые навыки:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Обаяние
+              * Привлекательность
+              * Роскошная шевелюра
+        - title: Студент направления Математика и механика
+          company: РУДН
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: 
+          date_start: '2022-01-09'
+          date_end: ''
+          description: Изучение важных аспектов математической науки. physics.
     design:
       columns: '2'
   - block: accomplishments
@@ -76,29 +76,29 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: МинОбрНауки РФ
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Олимпиада по истории
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
+          description: Призёр областной олимпиады по математике
+          organization: МинОбрНауки РФ
+          organization_url: ''
+          title: Олимпиада по математике
+          url: 
+        - certificate_url: ''
+          date_end: ''
           date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: МинОбрНауки РФ
+          organization_url: ''
+          title: 'Олимпиада по русскому языку'
           url: ''
     design:
       columns: '2'
